@@ -4,4 +4,5 @@ When playing against the computer, it can be challenging as there are not many w
 The computer first plays to win if given the chance, but if not, will play to tie.
 This was programmed using the Visual Basic Language in my AP Computer Science Course.
 
-To access the exe file, it is in the file directory:
+To access the exe file to play the game, it is in the file directory:
+"TicTacToeAmar/bin/Debug/TicTacToe.exe"
