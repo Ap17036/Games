@@ -1,0 +1,68 @@
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.exe.config
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.exe
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.pdb
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.xml
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbprojAssemblyReference.cache
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\MainWindow.g.vb
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Application.g.vb
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar_MarkupCompile.cache
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar_MarkupCompile.lref
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\MainWindow.baml
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.g.resources
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee_Amar.Resources.resources
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbproj.GenerateResource.cache
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbproj.CoreCompileInputs.cache
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.exe
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.xml
+C:\Users\Amar\Desktop\yahtzee\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.pdb
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.exe.config
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.exe
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.pdb
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.xml
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbprojAssemblyReference.cache
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\MainWindow.g.vb
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Application.g.vb
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar_MarkupCompile.cache
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar_MarkupCompile.lref
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\MainWindow.baml
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.g.resources
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee_Amar.Resources.resources
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbproj.GenerateResource.cache
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbproj.CoreCompileInputs.cache
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.exe
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.xml
+H:\2018-19\Computer Programming Hon\Projects\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.pdb
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.exe.config
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.exe
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.pdb
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.xml
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbprojAssemblyReference.cache
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\MainWindow.g.vb
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Application.g.vb
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar_MarkupCompile.cache
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar_MarkupCompile.lref
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\MainWindow.baml
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.g.resources
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee_Amar.Resources.resources
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbproj.GenerateResource.cache
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbproj.CoreCompileInputs.cache
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.exe
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.xml
+C:\Users\Amar\Desktop\yahtzee\new\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.pdb
+F:\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.exe.config
+F:\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.exe
+F:\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.pdb
+F:\Yahtzee Amar\Yahtzee Amar\bin\Debug\Yahtzee Amar.xml
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbprojAssemblyReference.cache
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\MainWindow.g.vb
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Application.g.vb
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar_MarkupCompile.cache
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar_MarkupCompile.lref
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\MainWindow.baml
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.g.resources
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee_Amar.Resources.resources
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbproj.GenerateResource.cache
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.vbproj.CoreCompileInputs.cache
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.exe
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.xml
+F:\Yahtzee Amar\Yahtzee Amar\obj\Debug\Yahtzee Amar.pdb

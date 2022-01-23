@@ -1,0 +1,69 @@
+﻿<Window x:Name="YahtzeeAmar" x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Yahtzee_Amar"
+        mc:Ignorable="d"
+        Title="YahtzeeAmar" Height="484" Width="686">
+    <Grid>
+        <Button x:Name="btnroll" Content="ROLL" HorizontalAlignment="Left" Margin="230,0,0,0" VerticalAlignment="Top" Width="442" Height="67"/>
+        <Image x:Name="imgns1" HorizontalAlignment="Left" Height="60" Margin="341,153,0,0" VerticalAlignment="Top" Width="60"/>
+        <Image x:Name="imgns4" HorizontalAlignment="Left" Height="60" Margin="536,153,0,0" VerticalAlignment="Top" Width="60"/>
+        <Image x:Name="imgns3" HorizontalAlignment="Left" Height="60" Margin="471,153,0,0" VerticalAlignment="Top" Width="60"/>
+        <Image x:Name="imgns2" HorizontalAlignment="Left" Height="60" Margin="406,153,0,0" VerticalAlignment="Top" Width="60"/>
+        <Image x:Name="imgns5" HorizontalAlignment="Left" Height="60" Margin="601,153,0,0" VerticalAlignment="Top" Width="60"/>
+        <Image x:Name="imgs1" HorizontalAlignment="Left" Height="60" Margin="344,88,0,0" VerticalAlignment="Top" Width="59"/>
+        <Image x:Name="imgs2" HorizontalAlignment="Left" Height="60" Margin="408,88,0,0" VerticalAlignment="Top" Width="59"/>
+        <Image x:Name="imgs3" HorizontalAlignment="Left" Height="60" Margin="472,88,0,0" VerticalAlignment="Top" Width="59"/>
+        <Image x:Name="imgs4" HorizontalAlignment="Left" Height="60" Margin="536,88,0,0" VerticalAlignment="Top" Width="59"/>
+        <Image x:Name="imgs5" HorizontalAlignment="Left" Height="60" Margin="600,88,0,0" VerticalAlignment="Top" Width="59"/>
+        <Image HorizontalAlignment="Left" Height="453" VerticalAlignment="Top" Width="225" Source="Resources/Capture.JPG" Stretch="Fill"/>
+        <TextBlock x:Name="txtOnes" HorizontalAlignment="Left" Margin="75,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtTwos" HorizontalAlignment="Left" Margin="75,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtthrees" HorizontalAlignment="Left" Margin="75,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="71"/>
+        <TextBlock x:Name="testfours" HorizontalAlignment="Left" Margin="75,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtfives" HorizontalAlignment="Left" Margin="75,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtsixs" HorizontalAlignment="Left" Margin="75,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtthreeokkinds" HorizontalAlignment="Left" Margin="75,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtfourofkinds" HorizontalAlignment="Left" Margin="75,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtfullhouses" HorizontalAlignment="Left" Margin="75,267,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtsmallstraights" HorizontalAlignment="Left" Margin="75,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtlargestraights" HorizontalAlignment="Left" Margin="75,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtyahtzees" HorizontalAlignment="Left" Margin="75,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtchance" HorizontalAlignment="Left" Margin="75,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtTotalB" HorizontalAlignment="Left" Margin="76,386,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtOnes_Copy" HorizontalAlignment="Left" Margin="147,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtthrees_Copy" HorizontalAlignment="Left" Margin="147,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="71"/>
+        <TextBlock x:Name="testfours_Copy" HorizontalAlignment="Left" Margin="147,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtfives_Copy" HorizontalAlignment="Left" Margin="147,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtsixs_Copy" HorizontalAlignment="Left" Margin="147,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtthreeokkinds_Copy" HorizontalAlignment="Left" Margin="147,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtfourofkinds_Copy" HorizontalAlignment="Left" Margin="147,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtfullhouses_Copy" HorizontalAlignment="Left" Margin="147,267,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtsmallstraights_Copy" HorizontalAlignment="Left" Margin="147,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtyahtzee_Copy" HorizontalAlignment="Left" Margin="147,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtTotalB_Copy" HorizontalAlignment="Left" Margin="147,386,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtTwos_Copy" HorizontalAlignment="Left" Margin="147,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtchance_Copy" HorizontalAlignment="Left" Margin="146,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtTotalsU" HorizontalAlignment="Left" Margin="75,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtBonus" HorizontalAlignment="Left" Margin="75,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="71"/>
+        <TextBlock x:Name="txtUpperTotal" HorizontalAlignment="Left" Margin="75,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="71"/>
+        <TextBlock x:Name="txtUpper" HorizontalAlignment="Left" Margin="75,406,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtCombined" HorizontalAlignment="Left" Margin="75,431,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtUpper_Copy" HorizontalAlignment="Left" Margin="146,406,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtCombined_Copy" HorizontalAlignment="Left" Margin="146,431,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtTotalsU_Copy" HorizontalAlignment="Left" Margin="147,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="23" Width="71"/>
+        <TextBlock x:Name="txtBonus_Copy" HorizontalAlignment="Left" Margin="147,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="71"/>
+        <TextBlock x:Name="txtUpperTotal_Copy" HorizontalAlignment="Left" Margin="147,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Width="71"/>
+        <TextBlock x:Name="txtyahtzees1" HorizontalAlignment="Left" Margin="76,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtyahtzees2" HorizontalAlignment="Left" Margin="75,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtyahtzees3" HorizontalAlignment="Left" Margin="138,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="0" Width="8" RenderTransformOrigin="0.399,0.688"/>
+        <TextBlock x:Name="txtyahtzee1_Copy" HorizontalAlignment="Left" Margin="148,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtyahtzee2_Copy" HorizontalAlignment="Left" Margin="148,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtyahtzee3_Copy" HorizontalAlignment="Left" Margin="148,333,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtlargestraights_Copy" HorizontalAlignment="Left" Margin="148,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="20" Width="71"/>
+        <TextBlock x:Name="txtyahtzee3" HorizontalAlignment="Left" Margin="75,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="25" Width="68"/>
+
+    </Grid>
+</Window>
