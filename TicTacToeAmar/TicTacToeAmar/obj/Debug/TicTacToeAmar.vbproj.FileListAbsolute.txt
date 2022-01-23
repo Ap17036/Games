@@ -1,0 +1,17 @@
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\bin\Debug\TicTacToeAmar.exe.config
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\bin\Debug\TicTacToeAmar.exe
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\bin\Debug\TicTacToeAmar.pdb
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\bin\Debug\TicTacToeAmar.xml
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar.vbprojAssemblyReference.cache
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\MainWindow.g.vb
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\Application.g.vb
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar_MarkupCompile.cache
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar_MarkupCompile.lref
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\MainWindow.baml
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar.g.resources
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar.Resources.resources
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar.vbproj.GenerateResource.cache
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar.vbproj.CoreCompileInputs.cache
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar.exe
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar.xml
+H:\2018-19\Computer Programming Hon\Projects\TicTacToeAmar\TicTacToeAmar\obj\Debug\TicTacToeAmar.pdb
