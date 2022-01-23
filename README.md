@@ -1,2 +1,2 @@
 # games
-Different games I have programmed as projects for school or for fun.
+I have programmed a lot of different games for AP Computer Science in High School. I have also programmed some games just for fun in my spare time.
