@@ -1,0 +1,7 @@
+This game is a basic Tic Tac Toe Game. 
+There are options for Two Players or One Player where you can play against the Computer.
+When playing against the computer, it can be challenging as there are not many ways to win.
+The computer first plays to win if given the chance, but if not, will play to tie.
+This was programmed using the Visual Basic Language in my AP Computer Science Course.
+
+To access the exe file, it is in the file directory:
